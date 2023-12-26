@@ -1,7 +1,7 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
 ##### Version: 2[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.6 [12/26/2023]
 * github return P[LS STOP
-* **64 Currently Listed**
+* **66 Currently Listed**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -180,6 +180,12 @@ High
 ```json
 {
 	"FFlagEnableInGameMenuChrome": "True"
+}
+```
+### Disable Bubble Chat
+```json
+{
+    "FFlagEnableBubbleChatFromChatService": "False"
 }
 ```
 ### Disable Selfview
@@ -434,6 +440,12 @@ High
 ```json
 {
 	"FFlagFailsafeHumanoid_3": "True"
+}
+```
+### Automatically unmutes your mic when you join a game with voice chat
+```json
+{
+	"FFlagDebugDefaultChannelStartMuted": "False"
 }
 ```
 ### Shows what you type [12/13/2023]
