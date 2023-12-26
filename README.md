@@ -82,7 +82,7 @@ High
 	"FIntRenderLocalLightFadeInMs": "0"
 }
 ```
-### Makes avatars shiny ***[Black on <3]*** ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://rentry.org/uffl/#heres-1-10-1-21) ]***
+### Makes avatars shiny ***[Black on <3]*** ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/Demetrius55/Epic-Fast-Flags-List/#heres-1-10--1-21) ]***
 ```json
 {
 	"DFIntRenderClampRoughnessMax": "-640000000",
@@ -460,7 +460,7 @@ High
 ### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) ***[Github Repo Link]***
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) ***[Github Repo Link]***
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) ***[Github Repo Link]***
-### [potato fflags](https://rentry.org/robloxpotatofflags) ***[Github Repo Link]***
+### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) ***[Github Repo Link]***
 ### [Fake Roblox Player Internal Patcher](https://github.com/Demetrius55/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) ***[Download Link]***
 
 ####  You've reached the bottom of the list! 
