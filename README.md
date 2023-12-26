@@ -375,7 +375,7 @@ High
 	"DFIntMaxLoadableAudioChannelCount": "1"
 }
 ```
-### No description provided
+### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
 ```json
 {
 	"FFlagDebugHumanoidRendering": "True"
