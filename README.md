@@ -135,19 +135,19 @@ High
 	"FFlagNewLightAttenuation": "True"
 }
 ```
-### No description provided
+### No description provided *[Might boost performance]*
 ```json
 {
 	"FFlagFastGPULightCulling3": "True"
 }
 ```
-### Frame Buffer ***[1,2,3 bad, 4 & 10 good]***
+### Frame Buffer *[1,2,3 bad, 4 & 10 good]*
 ```json
 {
 	"DFIntMaxFrameBufferSize": "4"
 }
 ```
-### High Quality Textures ***[1-3]***
+### High Quality Textures *[1-3]*
 ```json
 {
 	"DFFlagTextureQualityOverrideEnabled": "True",
@@ -163,7 +163,7 @@ High
 	"FIntRenderGrassHeightScaler": "0"
 }
 ```
-### Force MSAA ***[0, 1, 2, 4, 8, 16]***
+### Force MSAA *[0, 1, 2, 4, 8, 16]*
 ```json
 {
 	"FIntDebugForceMSAASamples": "4"
@@ -232,12 +232,7 @@ High
 	"FIntFontSizePadding": "1"
 }
 ```
-### Remove Lua System Bar/Mobile
-```json
-{
-	"FFlagLuaAppSystemBar": "False"
-}
-```
+### *~~Lua System Bar/Mobile~~* *[I don't think this works anymore]*
 ### Remove Home Button
 ```json
 {
@@ -317,7 +312,7 @@ High
 ```
 # Physics 
 ### This was requested to be removed
-# Other FFlags
+# other FFlags
 ### Sounds use physical velocity and become distorted
 ```json
 {
@@ -343,13 +338,13 @@ High
 	"DFIntConnectionMTUSize": "Value"
 }
 ```
-### No Internet Disconnect ***[You will still be kicked but the message wont show.]***
+### No Internet Disconnect *[You will still be kicked but the message wont show.]*
 ```json
 {
 	"DFFlagDebugDisableTimeoutDisconnect": "True"
 }
 ```
-### Quick Game Launch ***[BUGGY]***
+### Quick Game Launch *[BUGGY]*
 ```json
 {
 	"FFlagEnableQuickGameLaunch": "True"
@@ -374,7 +369,7 @@ High
 	"FFlagDebugForceChatDisabled": "True"
 }
 ```
-### No description provided
+### disables audio effects? i don't really know
 ```json
 {
 	"DFIntMaxLoadableAudioChannelCount": "1"
@@ -455,13 +450,13 @@ High
 ```
 
 # Links
-### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) ***[Github Repo Link]***
-### [MEGA FAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) ***[Bloxstrap Server]***
-### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) ***[Github Repo Link]***
-### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) ***[Github Repo Link]***
-### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) ***[Github Repo Link]***
-### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) ***[Github Repo Link]***
-### [Fake Roblox Player Internal Patcher](https://github.com/Demetrius55/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) ***[Download Link]***
+### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
+### [MEGA FAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
+### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
+### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
+### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
+### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
+### [Fake Roblox Player Internal Patcher](https://github.com/Demetrius55/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) *[Download Link]*
 
 ####  You've reached the bottom of the list! 
 
