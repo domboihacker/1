@@ -135,7 +135,7 @@ High
 	"FFlagNewLightAttenuation": "True"
 }
 ```
-### No description provided *[Might boost performance]*
+### Combine with [Lighting Attenuation](https://github.com/devstacking/Epic-Fast-Flags-List#lighting-attenuation) for better vision
 ```json
 {
 	"FFlagFastGPULightCulling3": "True"
