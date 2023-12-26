@@ -10,14 +10,14 @@
 * **Then you should be good to go and save!**
 
  # List Navigation
-* **[Rendering](https://github.com/Demetrius55/Epic-Fast-Flags-List#rendering)**
-* **[Graphical](https://github.com/Demetrius55/Epic-Fast-Flags-List#graphical-settings)**
-* **[UI](https://github.com/Demetrius55/Epic-Fast-Flags-List#user-interface)**
-* **[QOL](https://github.com/Demetrius55/Epic-Fast-Flags-List#quality-of-life)**
-* **[Textures](https://github.com/Demetrius55/Epic-Fast-Flags-List#textures)**
-* **[Physics](https://github.com/Demetrius55/Epic-Fast-Flags-List#physics)**
-* **[Other FFlags](https://github.com/Demetrius55/Epic-Fast-Flags-List#other-fflags)**
-* **[Links](https://github.com/Demetrius55/Epic-Fast-Flags-List#links)**
+* **[Rendering](https://github.com/devstacking/Epic-Fast-Flags-List#rendering)**
+* **[Graphical](https://github.com/devstacking/Epic-Fast-Flags-List#graphical-settings)**
+* **[UI](https://github.com/devstacking/Epic-Fast-Flags-List#user-interface)**
+* **[QOL](https://github.com/devstacking/Epic-Fast-Flags-List#quality-of-life)**
+* **[Textures](https://github.com/devstacking/Epic-Fast-Flags-List#textures)**
+* **[Physics](https://github.com/devstacking/Epic-Fast-Flags-List#physics)**
+* **[Other FFlags](https://github.com/devstacking/Epic-Fast-Flags-List#other-fflags)**
+* **[Links](https://github.com/devstacking/Epic-Fast-Flags-List#links)**
 	
 <img src="https://tr.rbxcdn.com/ad538ecac70cf7be6d71b9f2b62100db/768/432/Image/Png" width="888"/>
 
@@ -82,7 +82,7 @@ High
 	"FIntRenderLocalLightFadeInMs": "0"
 }
 ```
-### Makes avatars shiny ***[Black on <3]*** ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/Demetrius55/Epic-Fast-Flags-List/#heres-1-10--1-21) ]***
+### Makes avatars shiny ***[Black on <3]*** ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/devstacking/Epic-Fast-Flags-List/#heres-1-10--1-21) ]***
 ```json
 {
 	"DFIntRenderClampRoughnessMax": "-640000000",
@@ -456,7 +456,7 @@ High
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
-### [Fake Roblox Player Internal Patcher](https://github.com/Demetrius55/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) *[Download Link]*
+### [Fake Roblox Player Internal Patcher](https://github.com/devstacking/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) *[Download Link]*
 
 ####  You've reached the bottom of the list! 
 
