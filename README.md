@@ -475,8 +475,7 @@ High
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
+###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
-###### OG https://rentry.org/uffl/
-
-##### FastFlags 2024® eal
+##### FastFlags 2024®<sup>eal</sup>
 ##### Not affiliated with [Bloxstrap](https://github.com/pizzzaboxer/Bloxstrap)
