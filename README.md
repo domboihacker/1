@@ -1,6 +1,5 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 2[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.6 [12/26/2023]
-* github return P[LS STOP
+##### Version: 2[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.7 [12/27/2023]
 * **66 Currently Listed**
 
  # How to use
@@ -318,7 +317,7 @@ High
 ```
 # Physics 
 ### This was requested to be removed
-# other FFlags
+# other fflags
 ### Sounds use physical velocity and become distorted
 ```json
 {
@@ -331,7 +330,7 @@ High
 	"FStringDebugShowFlagState": "Value"
 }
 ```
-##### e.g
+###### e.g
 ```json
 {
 	"FStringDebugShowFlagState": "DFIntTaskSchedulerTargetFps, ChannelName"
@@ -375,7 +374,7 @@ High
 	"FFlagDebugForceChatDisabled": "True"
 }
 ```
-### disables audio effects? i don't really know
+### Stops the game from modifying sound, such as adding suppressor sounds 
 ```json
 {
 	"DFIntMaxLoadableAudioChannelCount": "1"
@@ -448,7 +447,8 @@ High
 	"FFlagDebugDefaultChannelStartMuted": "False"
 }
 ```
-### Shows what you type [12/13/2023]
+### Shows what you type 
+###### [12/13/2023]
 ```json
 {
 	"FFlagDebugTextBoxServiceShowOverlay": "True"
@@ -475,7 +475,6 @@ High
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
-* wet af rn lolol
 
 ###### OG https://rentry.org/uffl/
 
