@@ -1,5 +1,5 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 2[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.7 [12/27/2023]
+##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.0 [12/27/2023]
 * **66 Currently Listed**
 
  # How to use
@@ -43,12 +43,12 @@
 ```
 # Graphical Settings
 ### Low Graphics Quality w/ Max Render Distance
+###### Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
 ```json
 {
 	"DFIntDebugFRMQualityLevelOverride": "1"
 }
 ```
-#### Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
 ##### Heres 1-10 > 1-21
 ```
 Low
@@ -67,7 +67,6 @@ High
 9 = 18
 10 = 21
 ```
-###### (PAIN) i think i got it right this time 12/19/2023
 ### Limits light updates
 ```json
 {
@@ -81,7 +80,8 @@ High
 	"FIntRenderLocalLightFadeInMs": "0"
 }
 ```
-### Makes avatars shiny ***[Black on <3]*** ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/devstacking/Epic-Fast-Flags-List/#heres-1-10--1-21) ]***
+### Makes avatars shiny 
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/devstacking/Epic-Fast-Flags-List/#heres-1-10--1-21) ]***
 ```json
 {
 	"DFIntRenderClampRoughnessMax": "-640000000",
@@ -140,13 +140,15 @@ High
 	"FFlagFastGPULightCulling3": "True"
 }
 ```
-### Frame Buffer *[1,2,3 bad, 4 & 10 good]*
+### Frame Buffer
+###### Explnation: 0 makes white screen 1-3 makes other players have laggy movement, 4 is stable has better performance than 10 and less input lag
 ```json
 {
 	"DFIntMaxFrameBufferSize": "4"
 }
 ```
-### High Quality Textures *[1-3]*
+### High Quality Textures 
+###### *[1-3]*
 ```json
 {
 	"DFFlagTextureQualityOverrideEnabled": "True",
@@ -162,13 +164,15 @@ High
 	"FIntRenderGrassHeightScaler": "0"
 }
 ```
-### Force MSAA *[0, 1, 2, 4, 8, 16]*
+### Force MSAA 
+###### *[0, 1, 2, 4, 8, 16]*
 ```json
 {
 	"FIntDebugForceMSAASamples": "4"
 }
 ```
-### ShadowMap Bias ***[Future & ShadowMap]***
+### ShadowMap Bias 
+###### ***[Future & ShadowMap]***
 ```json
 {
 	"FIntRenderShadowmapBias": "75"
@@ -206,13 +210,14 @@ High
 }
 ```
 ### Hide guis
-***Instructions: Replace "ID" with any group ID that you are in.***
+###### ***Instructions: Replace "ID" with any group ID that you are in.***
 ```json
 {
 	"DFIntCanHideGuiGroupId": "ID"
 }
 ```
-### Accessibility Settings [V1 & V4]
+### Accessibility Settings 
+###### [V1 & V4]
 ```json
 {
 	"FFlagEnableAccessibilityCounters": "True",
@@ -237,7 +242,6 @@ High
 	"FIntFontSizePadding": "1"
 }
 ```
-### *~~Lua System Bar/Mobile~~* *[I don't think this works anymore]*
 ### Remove Home Button
 ```json
 {
@@ -417,13 +421,13 @@ High
 	"FFlagDebugDisplayUnthemedInstances": "True"
 }
 ```
-### Show Chunks
+### Show Outlined Chunks
 ```json
 {
 	"FFlagDebugLightGridShowChunks": "True"
 }
 ```
-### Disconnect Blur/Loading Blur
+### Remove Disconnect Blur/Loading Blur
 ```json
 {
 	"FIntRobloxGuiBlurIntensity": "0"
@@ -435,7 +439,7 @@ High
 	"DFFlagEnableDynamicHeadByDefault": "False"
 }
 ```
-### Gray avatar *[CLIENTSIDED]*
+### Gray avatar
 ```json
 {
 	"FFlagFailsafeHumanoid_3": "True"
