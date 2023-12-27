@@ -257,7 +257,8 @@ High
 }
 ```
 
-### Disable Telemetry *[This doesn't fully disable telemetry]*
+### Disable Telemetry 
+###### *[This doesn't fully disable telemetry]*
 ```json
 {
 	"FFlagDebugDisableTelemetryEphemeralCounter": "True",
@@ -341,25 +342,29 @@ High
 }
 ```
 
-### MTU ***[Might Improve Ping]***
+### MTU 
+###### ***[Might Improve Ping]***
 ```JSON
 {
 	"DFIntConnectionMTUSize": "Value"
 }
 ```
-### No Internet Disconnect *[You will still be kicked but the message wont show.]*
+### No Internet Disconnect 
+###### *[You will still be kicked but the message wont show.]*
 ```json
 {
 	"DFFlagDebugDisableTimeoutDisconnect": "True"
 }
 ```
-### Quick Game Launch *[BUGGY]*
+### Quick Game Launch 
+###### *[BUGGY]*
 ```json
 {
 	"FFlagEnableQuickGameLaunch": "True"
 }
 ```
-### Allows you to change voice chat distance [Min 7 Max 80]
+### Allows you to change voice chat distance 
+###### default: [Min 7 Max 80]
 ```json
 {
 	"VoiceChatRollOffMinDistance": "9999",
