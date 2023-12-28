@@ -1,6 +1,6 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
 ##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.0 [12/27/2023]
-* **66 Currently Listed**
+* **68 Currently Listed**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -66,6 +66,12 @@ High
 8 = 17
 9 = 18
 10 = 21
+```
+### Low Render Distance
+```json
+{
+	"DFIntDebugRestrictGCDistance": "1"
+}
 ```
 ### Limits light updates
 ```json
@@ -178,6 +184,15 @@ High
 }
 ```
 # User Interface
+### Cleaner ESC Menu
+###### [Link to Original Post](https://discord.com/channels/1099468797410283540/1189607691849564230)
+```json
+{
+	"FFlagEnableAudioOutputDevice": "False"
+	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
+	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "False",
+}
+```
 ### Chrome UI TopBar
 ```json
 {
