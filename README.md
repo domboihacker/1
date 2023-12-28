@@ -383,6 +383,8 @@ High
 }
 ```
 ### Stops the game from modifying sound, such as adding suppressor sounds 
+###### I think this limits audios playing. My value for this is 100
+###### Default value 8
 ```json
 {
 	"DFIntMaxLoadableAudioChannelCount": "1"
