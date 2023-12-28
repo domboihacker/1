@@ -83,10 +83,7 @@ High
 ### Makes avatars shiny 
 ###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/devstacking/Epic-Fast-Flags-List/#heres-1-10--1-21) ]***
 ```json
-{
-	"DFIntRenderClampRoughnessMax": "-640000000",
-	"DFIntRenderClampRoughnessMax": "-640000000",
-	"DFIntDebugFRMQualityLevelOverride": "21"
+{	"DFIntRenderClampRoughnessMax": "-640000000",		"DFIntDebugFRMQualityLevelOverride": "21"
 }
 ```
 ### Disable PostFX
