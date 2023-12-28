@@ -1,6 +1,6 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
 ##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.0 [12/27/2023]
-* **68 Currently Listed**
+* **69 Currently Listed**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -483,6 +483,12 @@ High
 ```json
 {
 	"FFlagEnableAudioOutputDevice": "True"
+}
+```
+### opt-out Experience Language
+```json
+{
+	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 }
 ```
 
