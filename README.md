@@ -1,6 +1,7 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
 ##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.0 [12/27/2023]
-* **69 Currently Listed**
+* **72 Currently Listed**
+* Added some bloxstrap presets
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -20,7 +21,7 @@
 
 <img src="https://github.com/devstacking/Epic-Fast-Flags-List/assets/106433721/0d16e448-4097-44ef-9eef-c445155a4bcb" width="888"/>
 
-# Rendering
+# Rendering API
 ### Vulkan
 ```json
 {
@@ -42,6 +43,12 @@
 }
 ```
 # Graphical Settings
+### Preserve rendering quality with display setting
+```json
+{
+	"DFFlagDisableDPIScale": "True"
+}
+```
 ### Low Graphics Quality w/ Max Render Distance
 ###### Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
 ```json
@@ -71,6 +78,13 @@ High
 ```json
 {
 	"DFIntDebugRestrictGCDistance": "1"
+}
+```
+### Disable Wind
+```json
+{
+	"FFlagGlobalWindRendering": "False"
+	"FFlagGlobalWindActivated": "False"
 }
 ```
 ### Limits light updates
@@ -191,6 +205,12 @@ High
 	"FFlagEnableAudioOutputDevice": "False"
 	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "False",
+}
+```
+### Disable Autocomplete
+```json
+{
+	"FFlagEnableCommandAutocomplete": "False"
 }
 ```
 ### Chrome UI TopBar
@@ -489,6 +509,12 @@ High
 ```json
 {
 	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
+}
+```
+### opt-out Experience Language
+```json
+{
+	"FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
 
