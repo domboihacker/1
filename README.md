@@ -83,7 +83,7 @@ High
 ### Disable Wind
 ```json
 {
-	"FFlagGlobalWindRendering": "False"
+	"FFlagGlobalWindRendering": "False",
 	"FFlagGlobalWindActivated": "False"
 }
 ```
