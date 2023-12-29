@@ -1,5 +1,5 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.0 [12/27/2023]
+##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.0 [12/29/2023]
 * **72 Currently Listed**
 * Added some bloxstrap presets
 
