@@ -75,6 +75,7 @@ High
 10 = 21
 ```
 ### Low Render Distance
+###### *[21 Limit]*
 ```json
 {
 	"DFIntDebugRestrictGCDistance": "1"
