@@ -1,6 +1,6 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
 ##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.0 [12/29/2023]
-* **72 Currently Listed**
+* **73 Currently Listed**
 * Added some bloxstrap presets
 
  # How to use
@@ -42,8 +42,19 @@
 	"FFlagDebugGraphicsPreferD3D11FL10": "True"
 }
 ```
-# Graphical Settings
+# Graphical Settings <sup>& other stuff</sup>
+### Buggy ZPlane Camera *<sup>a.k.a xray</sup>*
+```json
+{
+	"FIntCameraFarZPlane": "0"
+}
+```
 ### Preserve rendering quality with display setting
+```json
+{
+	"DFFlagDisableDPIScale": "True"
+}
+```
 ```json
 {
 	"DFFlagDisableDPIScale": "True"
