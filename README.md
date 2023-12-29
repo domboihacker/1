@@ -511,7 +511,7 @@ High
 	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 }
 ```
-### opt-out Experience Language
+### Exclusive Fullscreen
 ```json
 {
 	"FFlagHandleAltEnterFullscreenManually": "False"
