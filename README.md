@@ -368,6 +368,15 @@ High
 ```
 # Physics 
 ### This was requested to be removed
+### Physics FPS 
+###### since this fflag got leaked by exploiters <sup>pyhlou probably</sup> this fflag deserves to be leaked more so it will be removed. This lasted long why would you ruin such a great fflag?
+```json
+{
+	"FFlagDebugSimIntegrationStabilityTesting": "True"
+}
+```
+<img src="https://media.discordapp.net/attachments/1190661575779045386/1191367650685767680/IMG_20240101_210914.png?ex=65a52e96&is=6592b996&hm=665c431b9497d48591872addf4c15ece0bc3b2e74eb3ecdd1396d41c298eca97&" width="484"/>
+
 # other fflags
 ### Sounds use physical velocity and become distorted
 ```json
