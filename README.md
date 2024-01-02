@@ -2,7 +2,7 @@
 > Please report these fflags: **[Physics FPS](https://github.com/devstacking/Epic-Fast-Flags-List#physics-fps)** & **[ESP](https://github.com/devstacking/Epic-Fast-Flags-List#ESP)** <sup>make a bug report or pm in devforum. if pm doesnt work just make a topic on bug reports</sup>
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.8 [12/29/2023]
+##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.8 [1/1/2024]
 * **75 Currently Listed**
 * Added some bloxstrap presets
 
