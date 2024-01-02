@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Please report these fflags: **[Physics FPS](https://github.com/devstacking/Epic-Fast-Flags-List#physics-fps)** **[Rendering](https://github.com/devstacking/Epic-Fast-Flags-List#ESP)** <sup>make a bug report or pm in devforum. if pm doesnt work just make a topic on bug reports</sup>
+
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
 ##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.0 [12/29/2023]
 * **73 Currently Listed**
@@ -43,6 +46,14 @@
 }
 ```
 # Graphical Settings <sup>& other stuff</sup>
+### ESP
+##### Draws an outline around every part and every humanoid
+###### could we revoke invites in rgc
+```json
+{
+	"DFFlagDebugDrawBroadPhaseAABBs": "False"
+}
+```
 ### Buggy ZPlane Camera *<sup>a.k.a xray</sup>*
 ```json
 {
@@ -214,9 +225,9 @@ High
 ###### [Link to Original Post](https://discord.com/channels/1099468797410283540/1189607691849564230)
 ```json
 {
-	"FFlagEnableAudioOutputDevice": "False"
-	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
-	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "False",
+	"FFlagEnableAudioOutputDevice": "False",
+	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
+	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "False"
 }
 ```
 ### Disable Autocomplete
