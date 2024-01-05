@@ -1,9 +1,9 @@
 > [!IMPORTANT]
-> Please report these fflags: **[Physics FPS](https://github.com/devstacking/Epic-Fast-Flags-List#physics-fps)** & **[ESP](https://github.com/devstacking/Epic-Fast-Flags-List#ESP)** <sup>make a bug report or pm in devforum. if pm doesnt work just make a topic on bug reports</sup>
+> Please report these fflags: **[Physics FPS](https://github.com/devstacking/Epic-Fast-Flags-List#physics-fps)** & **[ESP](https://github.com/devstacking/Epic-Fast-Flags-List#esp1)** <sup>make a bug report or pm in devforum. if pm doesnt work just make a topic on bug reports</sup>
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.8 [1/1/2024]
-* **75 Currently Listed**
+##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)4.1 [1/5/2024]
+* **76 Currently Listed**
 * Added some bloxstrap presets
 
  # How to use
@@ -46,7 +46,15 @@
 }
 ```
 # Graphical Settings <sup>& other stuff</sup>
-### ESP
+### ESP1
+##### Instructions: CTRL+F8
+###### it's over.
+```json
+{
+	"DFFlagDebugEnableInterpolationVisualizer": "True"
+}
+```
+### ESP2
 ##### Draws an outline around every part and every humanoid
 ###### could we revoke invites in rgc
 ```json
