@@ -1,6 +1,7 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.2-typofix [1/7/2024]
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.3 [1/7/2024]
 * **106 Currently Listed**
+* removed qol
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -12,7 +13,6 @@
 * **[Rendering](https://github.com/devstacking/Epic-Fast-Flags-List#rendering)**
 * **[Graphical](https://github.com/devstacking/Epic-Fast-Flags-List#graphical-settings)**
 * **[UI](https://github.com/devstacking/Epic-Fast-Flags-List#user-interface)**
-* **[QOL](https://github.com/devstacking/Epic-Fast-Flags-List#quality-of-life)**
 * **[Textures](https://github.com/devstacking/Epic-Fast-Flags-List#textures)**
 * **[Physics](https://github.com/devstacking/Epic-Fast-Flags-List#physics)**
 * **[Other FFlags](https://github.com/devstacking/Epic-Fast-Flags-List#other-fflags)**
@@ -367,43 +367,6 @@ High
 	"FFlagInGameMenuHomeButton": "False"
 }
 ```
-# Quality Of Life 
-
-### Disable ADs
-```json
-{
-	"FFlagAdServiceEnabled": "False"
-}
-```
-
-### Disable Telemetry 
-###### *[This doesn't fully disable telemetry]*
-```json
-{
-	"FFlagDebugDisableTelemetryEphemeralCounter": "True",
-	"FFlagDebugDisableTelemetryEphemeralStat": "True",
-	"FFlagDebugDisableTelemetryEventIngest": "True",
-	"FFlagDebugDisableTelemetryPoint": "True",
-	"FFlagDebugDisableTelemetryV2Counter": "True",
-	"FFlagDebugDisableTelemetryV2Event": "True",
-	"FFlagDebugDisableTelemetryV2Stat": "True"
-}
-```
-### Scroll Speed
-```json
-{
-	"FIntScrollWheelDeltaAmount": "140"
-}
-```
-### Surf the web inside of Roblox
-###### Click the Beta badge or the 13+ badge to open the webview browser.
-```json
-{
-	"FFlagTopBarUseNewBadge": "True",
-	"FStringTopBarBadgeLearnMoreLink": "https://google.com",
-	"FStringVoiceBetaBadgeLearnMoreLink": "https://google.com"
-}
-```
 # Textures
 ### No Textures
 ```json
@@ -614,6 +577,42 @@ gatekept
 }
 ```
 # other fflags
+
+### Disable ADs
+```json
+{
+	"FFlagAdServiceEnabled": "False"
+}
+```
+
+### Disable Telemetry 
+###### *[This doesn't fully disable telemetry]*
+```json
+{
+	"FFlagDebugDisableTelemetryEphemeralCounter": "True",
+	"FFlagDebugDisableTelemetryEphemeralStat": "True",
+	"FFlagDebugDisableTelemetryEventIngest": "True",
+	"FFlagDebugDisableTelemetryPoint": "True",
+	"FFlagDebugDisableTelemetryV2Counter": "True",
+	"FFlagDebugDisableTelemetryV2Event": "True",
+	"FFlagDebugDisableTelemetryV2Stat": "True"
+}
+```
+### Scroll Speed
+```json
+{
+	"FIntScrollWheelDeltaAmount": "140"
+}
+```
+### Surf the web inside of Roblox
+###### Click the Beta badge or the 13+ badge to open the webview browser.
+```json
+{
+	"FFlagTopBarUseNewBadge": "True",
+	"FStringTopBarBadgeLearnMoreLink": "https://google.com",
+	"FStringVoiceBetaBadgeLearnMoreLink": "https://google.com"
+}
+```
 ### Sounds use physical velocity and become distorted
 ```json
 {
