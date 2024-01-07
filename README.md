@@ -1,10 +1,6 @@
-> [!IMPORTANT]
-> Please report these fflags: **[Physics FPS](https://github.com/devstacking/Epic-Fast-Flags-List#physics-fps)** & **[ESP](https://github.com/devstacking/Epic-Fast-Flags-List#esp1)** <sup>make a bug report or pm in devforum. if pm doesnt work just make a topic on bug reports</sup>
-
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 3[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)4.1 [1/5/2024]
-* **76 Currently Listed**
-* Added some bloxstrap presets
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.1 [1/7/2024]
+* **106 Currently Listed**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -25,6 +21,13 @@
 <img src="https://github.com/devstacking/Epic-Fast-Flags-List/assets/106433721/0d16e448-4097-44ef-9eef-c445155a4bcb" width="888"/>
 
 # Rendering API
+### Metal
+###### MacOS Only
+```json
+{
+	"FFlagDebugGraphicsPreferMetal": "True"
+}
+```
 ### Vulkan
 ```json
 {
@@ -45,8 +48,39 @@
 	"FFlagDebugGraphicsPreferD3D11FL10": "True"
 }
 ```
+### DX11
+```json
+{
+	"FFlagDebugGraphicsPreferD3D11": "True"
+}
+```
 # Graphical Settings <sup>& other stuff</sup>
-### ESP1
+### idk
+```json
+{
+	"DFFlagDebugEnableStreamingSolverVisualization": "True"
+}
+```
+### Alternate Graphics Quality Selector
+###### 1-21
+```json
+{
+	"FFlagFixGraphicsQuality": "True"
+}
+```
+### Disable Shadows
+```json
+{
+	"FIntRenderShadowIntensity": "0"
+}
+```
+### Set Fps Limit
+```json
+{
+	"DFIntTaskSchedulerTargetFps": "9999"
+}
+```
+### Enables Network Debug Tracker menu
 ##### Instructions: CTRL+F8
 ###### it's over.
 ```json
@@ -54,9 +88,8 @@
 	"DFFlagDebugEnableInterpolationVisualizer": "True"
 }
 ```
-### ESP2
+### Humanoid Outline
 ##### Draws an outline around every part and every humanoid
-###### could we revoke invites in rgc
 ```json
 {
 	"DFFlagDebugDrawBroadPhaseAABBs": "False"
@@ -126,6 +159,7 @@ High
 }
 ```
 ### Disables fade in and fade out animation every light update
+###### changes fade in ms!!
 ```json
 {
 	"FIntRenderLocalLightFadeInMs": "0"
@@ -184,7 +218,8 @@ High
 	"FFlagNewLightAttenuation": "True"
 }
 ```
-### Combine with [Lighting Attenuation](https://github.com/devstacking/Epic-Fast-Flags-List#lighting-attenuation) for better vision
+### Enable GPULightCulling
+###### Combine with [Lighting Attenuation](https://github.com/devstacking/Epic-Fast-Flags-List#lighting-attenuation) for better vision
 ```json
 {
 	"FFlagFastGPULightCulling3": "True"
@@ -236,6 +271,30 @@ High
 	"FFlagEnableAudioOutputDevice": "False",
 	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
 	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "False"
+}
+```
+### Hides gui
+```json
+{
+	"FFlagDebugAdornsDisabled": "True"
+}
+```
+### Dont Render UI
+```json
+{
+	"FFlagDebugDontRenderUI": "True"
+}
+```
+### V3 Menu
+```json
+{
+	"FFlagEnableV3MenuABTest3": "True"
+}
+```
+### Enable Audio Controller
+```json
+{
+	"FFlagTrackerLodControllerDebugUI": "True"
 }
 ```
 ### Disable Autocomplete
@@ -341,7 +400,8 @@ High
 	"FIntScrollWheelDeltaAmount": "140"
 }
 ```
-### Surf the web inside of Roblox!
+### Surf the web inside of Roblox
+###### Click the Beta badge or the 13+ badge to open the webview browser.
 ```json
 {
 	"FFlagTopBarUseNewBadge": "True",
@@ -385,17 +445,179 @@ High
 	"FStringPartTexturePackTablePre2022": "{\"foil\":{\"ids\":[\"rbxassetid://9873266399\",\"rbxassetid://9438410239\"],\"color\":[238,238,238,255]},\"asphalt\":{\"ids\":[\"rbxassetid://9867974823\",\"rbxassetid://9844502433\"],\"color\":[227,227,228,234]},\"basalt\":{\"ids\":[\"rbxassetid://11545552824\",\"rbxassetid://11545440462\"],\"color\":[160,160,158,238]},\"brick\":{\"ids\":[\"rbxassetid://9924770651\",\"rbxassetid://9924770538\"],\"color\":[229,214,205,227]},\"cobblestone\":{\"ids\":[\"rbxassetid://9919719550\",\"rbxassetid://9438453972\"],\"color\":[218,219,219,243]},\"concrete\":{\"ids\":[\"rbxassetid://9924775913\",\"rbxassetid://9924775826\"],\"color\":[225,225,224,255]},\"crackedlava\":{\"ids\":[\"rbxassetid://9920485426\",\"rbxassetid://9438453972\"],\"color\":[76,79,81,156]},\"diamondplate\":{\"ids\":[\"rbxassetid://10237721036\",\"rbxassetid://9438453972\"],\"color\":[210,210,210,255]},\"fabric\":{\"ids\":[\"rbxassetid://9920517963\",\"rbxassetid://9438453972\"],\"color\":[221,221,221,255]},\"glacier\":{\"ids\":[\"rbxassetid://9920518995\",\"rbxassetid://9438453972\"],\"color\":[225,229,229,243]},\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]},\"granite\":{\"ids\":[\"rbxassetid://9920550720\",\"rbxassetid://9438453972\"],\"color\":[210,206,200,255]},\"grass\":{\"ids\":[\"rbxassetid://11152995545\",\"rbxassetid://9267183930\"],\"color\":[196,196,189,241]},\"ground\":{\"ids\":[\"rbxassetid://11546360009\",\"rbxassetid://11545533676\"],\"color\":[165,165,160,240]},\"ice\":{\"ids\":[\"rbxassetid://9920556429\",\"rbxassetid://9438453972\"],\"color\":[235,239,241,248]},\"leafygrass\":{\"ids\":[\"rbxassetid://11152995545\",\"rbxassetid://9267183930\"],\"color\":[182,178,175,234]},\"limestone\":{\"ids\":[\"rbxassetid://9920561624\",\"rbxassetid://9438453972\"],\"color\":[250,248,243,250]},\"marble\":{\"ids\":[\"rbxassetid://9873292869\",\"rbxassetid://9438453972\"],\"color\":[181,183,193,249]},\"metal\":{\"ids\":[\"rbxassetid://11546526557\",\"rbxassetid://11546431794\"],\"color\":[226,226,226,255]},\"mud\":{\"ids\":[\"rbxassetid://9920578676\",\"rbxassetid://9438453972\"],\"color\":[193,192,193,252]},\"pavement\":{\"ids\":[\"rbxassetid://11546539560\",\"rbxassetid://11546440685\"],\"color\":[218,218,219,236]},\"pebble\":{\"ids\":[\"rbxassetid://9920581197\",\"rbxassetid://9438453972\"],\"color\":[204,203,201,234]},\"plastic\":{\"ids\":[\"\",\"rbxassetid://9868015012\"],\"color\":[255,255,255,255]},\"rock\":{\"ids\":[\"rbxassetid://11546570730\",\"rbxassetid://11546456858\"],\"color\":[211,211,210,248]},\"corrodedmetal\":{\"ids\":[\"rbxassetid://11545623165\",\"rbxassetid://11545476330\"],\"color\":[206,177,163,180]},\"salt\":{\"ids\":[\"rbxassetid://9920590478\",\"rbxassetid://9438453972\"],\"color\":[249,249,249,255]},\"sand\":{\"ids\":[\"rbxassetid://11546588111\",\"rbxassetid://11546468464\"],\"color\":[218,216,210,240]},\"sandstone\":{\"ids\":[\"rbxassetid://9920596353\",\"rbxassetid://9438453972\"],\"color\":[241,234,230,246]},\"slate\":{\"ids\":[\"rbxassetid://9867974823\",\"rbxassetid://9844502433\"],\"color\":[235,234,235,254]},\"snow\":{\"ids\":[\"rbxassetid://11536062048\",\"rbxassetid://11108916253\"],\"color\":[239,240,240,255]},\"wood\":{\"ids\":[\"rbxassetid://9867974813\",\"rbxassetid://9844454989\"],\"color\":[217,209,208,255]},\"woodplanks\":{\"ids\":[\"rbxassetid://9867974813\",\"rbxassetid://9844454989\"],\"color\":[207,208,206,254]}}"
 }
 ```
-# Physics 
-### This was requested to be removed
+# Physics
 ### Physics FPS 
-###### since this fflag got leaked by exploiters <sup>pyhlou probably</sup> this fflag deserves to be leaked more so it will be removed. This lasted long why would you ruin such a great fflag?
 ```json
 {
 	"FFlagDebugSimIntegrationStabilityTesting": "True"
 }
 ```
-<img src="https://media.discordapp.net/attachments/1190661575779045386/1191367650685767680/IMG_20240101_210914.png?ex=65a52e96&is=6592b996&hm=665c431b9497d48591872addf4c15ece0bc3b2e74eb3ecdd1396d41c298eca97&" width="484"/>
-
+### drunk
+```json
+{
+	"DFIntGeometricStiffnessAlpha": "-100000"
+}
+```
+### Breaks glitches stuff
+###### All type of wallhops, longjumps, headhitters and probably more stop working
+```json
+{
+	"DFFlagSimHumanoidPhysics": "True"
+}
+```
+### Max Raycast Distance
+###### Break legs collision from 2 to -inf, kinda break camera on values over 3
+```json
+{
+	"DFIntRaycastMaxDistance": "0"
+}
+```
+### Breaks movement on higher negative values
+```json
+{
+	"FIntPGSAngularDampingPermilPersecond": "-10000"
+}
+```
+### It allows you to fall quicker and ignore certain block designs
+```json
+{
+	"FFlagHumanoidOnlySetCollisionsOnStateChangeDefaultIsEnabled": "False",
+	"FFlagHumanoidParallelFasterSetCollision": "True"
+}
+```
+### Gear Desync
+```json
+{
+	"DFIntDataSenderRate": "-1"
+}
+```
+### 9. Freezes character in any state, can cause crashes, basically stacks input data
+```json
+{
+	"FFlagSimIslandizerManager": "False"
+}
+```
+### Spin when moving
+```json
+{
+	"DFIntRunningBaseOrientationP": "-14"
+}
+```
+### Spin when falling
+```json
+{
+	"DFIntRunningBaseOrientationP": "-14"
+}
+```
+### Makes character upside down
+```json
+{
+	"DFIntFreeFallBalanceP": "-9999"
+}
+```
+### Makes character ragdoll forever
+```json
+{
+	"DFIntGettingUpBalanceP": "0"
+}
+```
+### Fake Lag
+```json
+{
+	"DFIntS2PhysicsSenderRate": "1"
+}
+```
+### Noclip 1
+```json
+{
+	"DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
+}
+```
+### Noclip 2
+```json
+{
+	"FIntPGSPenetrationMarginMax": "2147483647",
+	"FIntPGSPenetrationMarginMin": "2147483647"
+}
+```
+### Noclip Combo
+```json
+{
+	"DFFlagAssemblyExtentsExpansionStudHundredth": "-40",
+	"FIntPGSPenetrationMarginMax": "2147483647",
+	"FIntPGSPenetrationMarginMin": "2147483647"
+}
+```
+### Allows you to boounce when flicking
+```json
+{
+	"DFIntNewRunningBaseAltitudeP": "49534"
+}
+```
+### Ragdoll Loop 
+###### only when you are already in a ragdoll state
+```json
+{
+	"DFIntGettingUpBalanceD": "-110000"
+}
+```
+### Become a ball
+```
+{
+	"DFIntDefaultBalanceD": "-17575",
+	"DFIntGeometricStiffnessAlpha": "-17575"
+}
+```
+### Bounces character constantly at 0 
+###### Jump to randomly bounce yourself high
+```json
+{
+	"DFIntNewRunningBaseAltitudeD": "0"
+}
+```
+### Super Jump Combo
+```
+this is not leaked yet
+gatekept
+```
+### Very limited speed fflag that works only in a few games
+###### one of them being Phantom Forces, and it makes you only slightly faster
+```json
+{
+	"DFIntDebugSimPhysicsSteppingMethodOverride": "10000000"
+}
+```
+### possible super jump blah bla vbla
+```json
+{
+	"DFIntNewRunningBaseGravityReductionFactorHundredth": "1000"
+}
+```
+### Set Hip Height
+###### Very controllable bounce, only works with negative values, 0 allows you to hover
+```json
+{
+	"DFIntMaxAltitudePDStickHipHeightPercent": "-200"
+}
+```
+### Head Collisions R15
+```json
+{
+	"FFlagMeshPartHeadsDefaultIsEnabled": "False"
+}
+```
+### Noclip <sup>literally</sup>
+```json
+{
+	"DFIntSHCellMinSizeAsBitShift": "4"
+}
+```
+### Wallglide
+```json
+{
+	"DFFlagUnstickForceAttackInTenths": "-4"
+}
+```
 # other fflags
 ### Sounds use physical velocity and become distorted
 ```json
@@ -441,8 +663,8 @@ High
 ###### default: [Min 7 Max 80]
 ```json
 {
-	"VoiceChatRollOffMinDistance": "9999",
-	"DFIntVoiceChatRollOffMaxDistance": "99999"
+	"DFIntVoiceChatRollOffMinDistance": "7",
+	"DFIntVoiceChatRollOffMaxDistance": "80"
 }
 ```
 ### Disable In-Game Purchases
@@ -457,9 +679,7 @@ High
 	"FFlagDebugForceChatDisabled": "True"
 }
 ```
-### Stops the game from modifying sound, such as adding suppressor sounds 
-###### I think this limits audios playing. My value for this is 100
-###### Default value 8
+### Limit audios that are being played
 ```json
 {
 	"DFIntMaxLoadableAudioChannelCount": "1"
@@ -496,7 +716,7 @@ High
 	"FFlagOverridePlayerVerifiedBadge": "True"
 }
 ```
-### Cool Stuff
+### Applies cool colors to Unthemed Stuff
 ```json
 {
 	"FFlagDebugDisplayUnthemedInstances": "True"
@@ -521,43 +741,59 @@ High
 }
 ```
 ### Gray avatar
+###### clientsided
 ```json
 {
 	"FFlagFailsafeHumanoid_3": "True"
 }
 ```
-### Automatically unmutes your mic when you join a game with voice chat
+### Automatically unmutes your mic on join
 ```json
 {
 	"FFlagDebugDefaultChannelStartMuted": "False"
 }
 ```
-### Shows what you type 
-###### [12/13/2023]
+### Overlay that shows what you type 
 ```json
 {
 	"FFlagDebugTextBoxServiceShowOverlay": "True"
 }
 ```
 ### Disable Output Device
+###### useless settings ngl
 ```json
 {
-	"FFlagEnableAudioOutputDevice": "True"
+	"FFlagEnableAudioOutputDevice": "False"
 }
 ```
 ### opt-out Experience Language
+###### Removes the Experience Language option in settings
 ```json
 {
 	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 }
 ```
 ### Exclusive Fullscreen
+###### Alt + Delete
 ```json
 {
 	"FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
-
+### Lets you change the zoom out limit
+###### infinite zoom out!!
+```json
+{
+	"FIntCameraMaxZoomDistance": "9999"
+}
+```
+### Limits number of animations being played
+###### infinite zoom out!!
+```json
+{
+	"DFIntMaxActiveAnimationTracks": "0"
+}
+```
 # Links
 ### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
 ### [MEGA FAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
