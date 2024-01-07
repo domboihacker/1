@@ -1,5 +1,5 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.1 [1/7/2024]
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.2-typofix [1/7/2024]
 * **106 Currently Listed**
 
  # How to use
@@ -102,11 +102,6 @@
 }
 ```
 ### Preserve rendering quality with display setting
-```json
-{
-	"DFFlagDisableDPIScale": "True"
-}
-```
 ```json
 {
 	"DFFlagDisableDPIScale": "True"
