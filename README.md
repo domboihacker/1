@@ -805,3 +805,5 @@ gatekept
 
 ##### FastFlags 2024®<sup>eal</sup>
 ##### Not affiliated with [Bloxstrap](https://github.com/pizzzaboxer/Bloxstrap)
+
+###### lil note: physics are from rgc
