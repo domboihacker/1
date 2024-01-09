@@ -501,9 +501,9 @@ High
 ### Noclip Combo
 ```json
 {
-	"DFFlagAssemblyExtentsExpansionStudHundredth": "-40",
-	"FIntPGSPenetrationMarginMax": "2147483647",
-	"FIntPGSPenetrationMarginMin": "2147483647"
+	"DFFlagAssemblyExtentsExpansionStudHundredth": "-50",
+	"FIntPGSPenetrationMarginMax": "199999999",
+	"FIntPGSPenetrationMarginMin": "100000000"
 }
 ```
 ### Allows you to boounce when flicking
