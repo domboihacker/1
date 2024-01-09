@@ -734,8 +734,7 @@ gatekept
 	"DFFlagEnableDynamicHeadByDefault": "False"
 }
 ```
-### Gray avatar
-###### clientsided
+### failsafehumanoid
 ```json
 {
 	"FFlagFailsafeHumanoid_3": "True"
