@@ -326,10 +326,15 @@ High
     "FFlagCoreGuiTypeSelfViewPresent": "False"
 }
 ```
-### Remove VC Bubble
+### Remove VC Beta Badge
 ```json
 {
-    "FFlagVoiceBetaBadge": "False"
+    "FFlagVoiceBetaBadge": "False",
+    "FFlagTopBarUseNewBadge": "False",
+    "FFlagEnableBetaBadgeLearnMore": "False",
+    "FFlagBetaBadgeLearnMoreLinkFormview": "False",
+    "FFlagControlBetaBadgeWithGuac": "False",
+    "FStringVoiceBetaBadgeLearnMoreLink": "null",
 }
 ```
 ### Pin Chat on Chrome UI
