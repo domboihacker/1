@@ -19,6 +19,10 @@
 
 <img src="https://github.com/devstacking/Epic-Fast-Flags-List/assets/106433721/0d16e448-4097-44ef-9eef-c445155a4bcb" width="888"/>
 
+### 
+
+<h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
+
 # Rendering API
 ### Metal
 ###### MacOS Only
@@ -802,14 +806,13 @@ gatekept
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
 ### [Fake Roblox Player Internal Patcher](https://github.com/devstacking/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) *[Download Link]*
 
-#### ୨୧┄┈୨୧‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨୧┈┈୨୧ You've reached the bottom of the list! ୨୧┄┈୨୧‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨୧┈┈୨୧
+<h4 align="center">୨୧┄┈୨୧‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨୧┈┈୨୧ You've reached the bottom of the list! ୨୧┄┈୨୧‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨୧┈┈୨୧</h4>
 
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
-##### FastFlags 2024®<sup>eal</sup>
-##### Not affiliated with [Bloxstrap](https://github.com/pizzzaboxer/Bloxstrap)
+<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
 
 ###### lil note: physics are from rgc
