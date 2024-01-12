@@ -1,7 +1,6 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.3 [1/7/2024]
-* **106 Currently Listed**
-* removed qol
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)0.3 [1/12/2024]
+* **107 Currently Listed**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -59,6 +58,13 @@
 ```json
 {
 	"DFFlagDebugEnableStreamingSolverVisualization": "True"
+}
+```
+### Low Quallity Terrain Textures
+###### 4 for less wuality 16, 32, 64 for higher quality
+```json
+{
+	"FIntTerrainArraySliceSize": "8"
 }
 ```
 ### Alternate Graphics Quality Selector
