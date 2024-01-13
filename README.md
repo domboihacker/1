@@ -1,6 +1,6 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.0 [1/13/2024]
-* **107 Currently Listed**
+* **111 Currently Listed**
 * Added some >w< decorations
 
  # How to use
@@ -441,6 +441,7 @@ High
 ```
 ### Max Raycast Distance
 ###### Break legs collision from 2 to -inf, kinda break camera on values over 3
+###### noclip cam on 3
 ```json
 {
 	"DFIntRaycastMaxDistance": "0"
@@ -797,7 +798,6 @@ gatekept
 }
 ```
 ### Limits number of animations being played
-###### infinite zoom out!!
 ```json
 {
 	"DFIntMaxActiveAnimationTracks": "0"
@@ -820,5 +820,3 @@ gatekept
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
 <h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
-
-###### lil note: physics are from rgc
