@@ -252,7 +252,7 @@ High
 	"DFIntTextureQualityOverride": "3"
 }
 ```
-### ~~Remove Grass~~ [REMOVED]
+### Remove Grass
 ```json
 {
 	"FIntFRMMinGrassDistance": "0",
