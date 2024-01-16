@@ -63,10 +63,10 @@
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
 
-### idk
+### Graphics Quality Level
 ```json
 {
-	"DFFlagDebugEnableStreamingSolverVisualization": "True"
+	"FIntRomarkStartWithGraphicQualityLevel": "1"
 }
 ```
 ### Low Quallity Terrain Textures
@@ -129,7 +129,9 @@
 	"DFIntDebugFRMQualityLevelOverride": "1"
 }
 ```
-##### Heres 1-10 > 1-21
+
+<h4 align="center">FRM Levels</h4>
+
 ```
 Low
 
@@ -148,7 +150,7 @@ High
 10 = 21
 ```
 ### Low Render Distance
-###### *[21 Limit]*
+###### [FRM])(https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#heres-1-10--1-21)
 ```json
 {
 	"DFIntDebugRestrictGCDistance": "1"
@@ -176,7 +178,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#heres-1-10--1-21) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
 	"DFIntRenderClampRoughnessMax": "-640000000",
