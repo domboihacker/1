@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List</h1>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.1 [1/16/2024]
-* **112 Currently Listed**
+* **113 Currently Listed**
 * Added some >w< decorations
 
  # How to use
