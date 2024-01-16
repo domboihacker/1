@@ -337,7 +337,7 @@ High
     "FFlagEnableBetaBadgeLearnMore": "False",
     "FFlagBetaBadgeLearnMoreLinkFormview": "False",
     "FFlagControlBetaBadgeWithGuac": "False",
-    "FStringVoiceBetaBadgeLearnMoreLink": "null",
+    "FStringVoiceBetaBadgeLearnMoreLink": "null"
 }
 ```
 ### Pin Chat on Chrome UI
