@@ -21,6 +21,7 @@ DFIntRunningBaseAltitudeP
 DFIntRunningBaseOrientationP
 FFlagDebugSimIntegrationStabilityTesting
 ```
+
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
 * **Fast Flags >> Fast Flags Editor >> Import Json**
@@ -166,8 +167,9 @@ High
 9 = 18
 10 = 21
 ```
+
 ### Low Render Distance
-###### [FRM])(https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#heres-1-10--1-21)
+###### [FRM](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#heres-1-10--1-21)
 ```json
 {
 	"DFIntDebugRestrictGCDistance": "1"
@@ -383,18 +385,9 @@ High
 	"DFIntCanHideGuiGroupId": "ID"
 }
 ```
-### Accessibility Settings 
-###### [V1 & V4]
+### Accessibility Settings are enabled by default
 ```json
 {
-	"FFlagEnableAccessibilityCounters": "True",
-	"FFlagEnableAccessibilitySettingsAPIV2": "True",
-	"FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "True",
-	"FFlagEnableAccessibilitySettingsEffectsInExperienceChat": "True",
-	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "True",
-	"FFlagEnableAccessibilitySettingsEffectsInLuaApp2": "True",
-	"FFlagEnableAccessibilitySettingsEffectsInModules": "True",
-	"FFlagEnableAccessibilitySettingsInAppShellSettings2": "True"
 }
 ```
 ### Disable Fullscreen Title Bar
