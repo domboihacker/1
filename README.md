@@ -3,7 +3,7 @@
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.1 [1/16/2024]
-* **106 Currently Listed**
+* **104 Currently Listed**
 * Removed patched fflags
 
 ### Patched 608
@@ -541,25 +541,14 @@ High
 	"DFIntGeometricStiffnessAlpha": "-17575"
 }
 ```
-### Super Jump Combo
-```
-this is not leaked yet
-gatekept
-```
-### Very limited speed fflag that works only in a few games
+Try limited speed fflag that works only in a few games
 ###### one of them being Phantom Forces, and it makes you only slightly faster
 ```json
 {
 	"DFIntDebugSimPhysicsSteppingMethodOverride": "10000000"
 }
 ```
-### possible super jump blah bla vbla
-```json
-{
-	"DFIntNewRunningBaseGravityReductionFactorHundredth": "1000"
-}
-```
-### Set Hip Height
+Hip Height
 ###### Very controllable bounce, only works with negative values, 0 allows you to hover
 ```json
 {
