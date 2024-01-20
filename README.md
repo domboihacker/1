@@ -3,9 +3,24 @@
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.1 [1/16/2024]
-* **113 Currently Listed**
-* Added some >w< decorations
+* **106 Currently Listed**
+* Removed patched fflags
 
+### Patched 608
+```
+DFIntFreeFallBalanceP 
+DFIntFreeFallOrientationP
+DFIntGettingUpBalanceD
+DFIntGettingUpBalanceP
+DFIntLandedBalanceD
+DFIntLandedBalanceP
+DFIntNewRunningBaseAltitudeD
+DFIntNewRunningBaseAltitudeP
+DFIntRunningBaseAltitudeD
+DFIntRunningBaseAltitudeP
+DFIntRunningBaseOrientationP
+FFlagDebugSimIntegrationStabilityTesting
+```
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
 * **Fast Flags >> Fast Flags Editor >> Import Json**
@@ -441,16 +456,10 @@ High
 
 <h1 align="center">Physics</h1>
 
-### Another Physics FPS
+### crash the client lmao
 ```json
 {
 	"DFFlagDebugSimUseManualTimestepMultiplier": "True"
-}
-```
-### Physics FPS 
-```json
-{
-	"FFlagDebugSimIntegrationStabilityTesting": "True"
 }
 ```
 ### drunk
@@ -493,34 +502,16 @@ High
 	"DFIntDataSenderRate": "-1"
 }
 ```
-### 9. Freezes character in any state, can cause crashes, basically stacks input data
+### Freezes character in any state, can cause crashes, basically stacks input data
 ```json
 {
 	"FFlagSimIslandizerManager": "False"
-}
-```
-### Spin when moving
-```json
-{
-	"DFIntRunningBaseOrientationP": "-14"
-}
-```
-### Spin when falling
-```json
-{
-	"DFIntRunningBaseOrientationP": "-14"
 }
 ```
 ### Makes character upside down
 ```json
 {
 	"DFIntFreeFallBalanceP": "-9999"
-}
-```
-### Makes character ragdoll forever
-```json
-{
-	"DFIntGettingUpBalanceP": "0"
 }
 ```
 ### Fake Lag
@@ -550,31 +541,11 @@ High
 	"FIntPGSPenetrationMarginMin": "100000000"
 }
 ```
-### Allows you to boounce when flicking
-```json
-{
-	"DFIntNewRunningBaseAltitudeP": "49534"
-}
-```
-### Ragdoll Loop 
-###### only when you are already in a ragdoll state
-```json
-{
-	"DFIntGettingUpBalanceD": "-110000"
-}
-```
 ### Become a ball
 ```
 {
 	"DFIntDefaultBalanceD": "-17575",
 	"DFIntGeometricStiffnessAlpha": "-17575"
-}
-```
-### Bounces character constantly at 0 
-###### Jump to randomly bounce yourself high
-```json
-{
-	"DFIntNewRunningBaseAltitudeD": "0"
 }
 ```
 ### Super Jump Combo
