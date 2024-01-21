@@ -3,8 +3,9 @@
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.2 [1/16/2024]
-* **104 Currently Listed**
+* **105 Currently Listed**
 * **1/21/2024** Removed **"Home Button"**
+* Added chrome ui preset
 * Removed patched fflags
 
 ### Patched 608
@@ -303,8 +304,7 @@ High
 ```json
 {
 	"FFlagEnableAudioOutputDevice": "False",
-	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
-	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "False"
+	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 }
 ```
 ### Hides gui
@@ -335,6 +335,17 @@ High
 ```json
 {
 	"FFlagEnableInGameMenuChrome": "True"
+}
+```
+### Better Chrome UI TopBar
+```json
+{
+	"FFlagChromeBetaFeature": "True",
+	"FFlagEnableChromePinnedChat": "True",
+	"FFlagEnableInGameMenuChrome": "True",
+	"FFlagEnableInGameMenuChromeABTest": "True",
+	"FFlagEnableInGameMenuChromeSignalAPI": "True",
+	"FFlagPlayerListChromePushdown": "True"
 }
 ```
 ### Chrome UI Topbar Removal
@@ -537,7 +548,7 @@ High
 }
 ```
 ### Become a ball
-```
+```json
 {
 	"DFIntDefaultBalanceD": "-17575",
 	"DFIntGeometricStiffnessAlpha": "-17575"
