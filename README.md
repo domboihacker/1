@@ -2,8 +2,8 @@
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.1 [1/16/2024]
-* **104 Currently Listed**
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.2 [1/16/2024]
+* **105 Currently Listed**
 * Removed patched fflags
 
 ### Patched 608
@@ -532,6 +532,13 @@ High
 	"DFFlagAssemblyExtentsExpansionStudHundredth": "-50",
 	"FIntPGSPenetrationMarginMax": "199999999",
 	"FIntPGSPenetrationMarginMin": "100000000"
+}
+```
+### Teleportation
+```json
+{
+	"FIntPGSPenetrationMarginMax": "-100000000",
+	"FIntPGSPenetrationMarginMin": "-100000000"
 }
 ```
 ### Become a ball
