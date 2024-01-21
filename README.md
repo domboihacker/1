@@ -541,14 +541,14 @@ High
 	"DFIntGeometricStiffnessAlpha": "-17575"
 }
 ```
-Try limited speed fflag that works only in a few games
+### limited speed fflag that works only in a few games
 ###### one of them being Phantom Forces, and it makes you only slightly faster
 ```json
 {
 	"DFIntDebugSimPhysicsSteppingMethodOverride": "10000000"
 }
 ```
-Hip Height
+### Hip Height
 ###### Very controllable bounce, only works with negative values, 0 allows you to hover
 ```json
 {
