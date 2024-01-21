@@ -3,7 +3,8 @@
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.2 [1/16/2024]
-* **105 Currently Listed**
+* **104 Currently Listed**
+* **1/21/2024** Removed **"Home Button"**
 * Removed patched fflags
 
 ### Patched 608
@@ -400,12 +401,6 @@ High
 ```json
 {
 	"FIntFontSizePadding": "1"
-}
-```
-### Remove Home Button
-```json
-{
-	"FFlagInGameMenuHomeButton": "False"
 }
 ```
 
