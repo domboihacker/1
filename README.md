@@ -126,7 +126,7 @@ FFlagDebugSimIntegrationStabilityTesting
 ##### Draws an outline around every part and every humanoid
 ```json
 {
-	"DFFlagDebugDrawBroadPhaseAABBs": "False"
+	"DFFlagDebugDrawBroadPhaseAABBs": "True"
 }
 ```
 ### Buggy ZPlane Camera *<sup>a.k.a xray</sup>*
