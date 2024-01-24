@@ -3,7 +3,7 @@
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.2 [1/16/2024]
-* **105 Currently Listed**
+* **106 Currently Listed**
 * **1/21/2024** Removed **"Home Button"**
 * Added chrome ui preset
 * Removed patched fflags
@@ -496,6 +496,7 @@ High
 }
 ```
 ### Gear Desync
+###### a.k.a dos not let you load games
 ```json
 {
 	"DFIntDataSenderRate": "-1"
@@ -794,6 +795,12 @@ High
 ```json
 {
 	"DFIntMaxActiveAnimationTracks": "0"
+}
+```
+### Limits Logs History
+```json
+{
+	"DFIntMaxLogHistory": "1"
 }
 ```
 
