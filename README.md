@@ -4,9 +4,6 @@
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.2 [1/16/2024]
 * **106 Currently Listed**
-* **1/21/2024** Removed **"Home Button"**
-* Added chrome ui preset
-* Removed patched fflags
 
 ### Patched 608
 ```
@@ -542,6 +539,7 @@ High
 }
 ```
 ### Teleportation
+###### a.k.a control the unanchored
 ```json
 {
 	"FIntPGSPenetrationMarginMax": "-100000000",
