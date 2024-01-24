@@ -168,7 +168,7 @@ High
 ```
 
 ### Low Render Distance
-###### [FRM](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#heres-1-10--1-21)
+###### [FRM](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#frm-levels)
 ```json
 {
 	"DFIntDebugRestrictGCDistance": "1"
