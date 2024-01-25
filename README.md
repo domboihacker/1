@@ -19,6 +19,7 @@ DFIntRunningBaseAltitudeD
 DFIntRunningBaseAltitudeP
 DFIntRunningBaseOrientationP
 FFlagDebugSimIntegrationStabilityTesting
+DFFlagDebugSimUseManualTimestepMultiplier
 ```
 
  # How to use
@@ -452,12 +453,6 @@ High
 
 <h1 align="center">Physics</h1>
 
-### crash the client lmao
-```json
-{
-	"DFFlagDebugSimUseManualTimestepMultiplier": "True"
-}
-```
 ### drunk
 ```json
 {
