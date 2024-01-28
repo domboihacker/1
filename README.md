@@ -2,6 +2,8 @@
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
+<h4 align="center">THIS LIST IS CURRENTLY DISCONTINUED</h4>
+
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.2 [1/16/2024]
 * **106 Currently Listed**
 
