@@ -2,6 +2,8 @@
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
+<h3 align="center">https://discord.gg/fastflags</h3>
+
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.3 [1/29/2024]
 * **106 Currently Listed**
 * Removed "Disable Output Devicce Setting"
