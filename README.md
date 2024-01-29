@@ -784,6 +784,13 @@ High
 }
 ```
 
+### No description currently available
+```json
+{
+	"DFIntRemoteEventSingleInvocationSizeLimit": "1"
+}
+```
+
 <h1 align="center">Links</h1>
 
 ### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
