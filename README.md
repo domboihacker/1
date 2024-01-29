@@ -2,27 +2,9 @@
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
-<h4 align="center">THIS LIST IS CURRENTLY DISCONTINUED</h4>
-
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.2 [1/16/2024]
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.3 [1/29/2024]
 * **106 Currently Listed**
-
-### Patched 608
-```
-DFIntFreeFallBalanceP 
-DFIntFreeFallOrientationP
-DFIntGettingUpBalanceD
-DFIntGettingUpBalanceP
-DFIntLandedBalanceD
-DFIntLandedBalanceP
-DFIntNewRunningBaseAltitudeD
-DFIntNewRunningBaseAltitudeP
-DFIntRunningBaseAltitudeD
-DFIntRunningBaseAltitudeP
-DFIntRunningBaseOrientationP
-FFlagDebugSimIntegrationStabilityTesting
-DFFlagDebugSimUseManualTimestepMultiplier
-```
+* Removed "Disable Output Devicce Setting"
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -455,6 +437,13 @@ High
 
 <h1 align="center">Physics</h1>
 
+### Invisibility
+```json
+{
+	"": "10"
+}
+```
+
 ### drunk
 ```json
 {
@@ -758,13 +747,7 @@ High
 	"FFlagDebugTextBoxServiceShowOverlay": "True"
 }
 ```
-### Disable Output Device
-###### useless settings ngl
-```json
-{
-	"FFlagEnableAudioOutputDevice": "False"
-}
-```
+### ~~Disable Output Device~~
 ### opt-out Experience Language
 ###### Removes the Experience Language option in settings
 ```json
@@ -808,6 +791,22 @@ High
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
 ### [Fake Roblox Player Internal Patcher](https://github.com/devstacking/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) *[Download Link]*
+
+### Patched in 0, 608, 1, 6080485
+```
+DFIntFreeFallBalanceP 
+DFIntFreeFallOrientationP
+DFIntGettingUpBalanceD
+DFIntGettingUpBalanceP
+DFIntLandedBalanceD
+DFIntLandedBalanceP
+DFIntNewRunningBaseAltitudeD
+DFIntNewRunningBaseAltitudeP
+DFIntRunningBaseAltitudeD
+DFIntRunningBaseAltitudeP
+DFIntRunningBaseOrientationP
+FFlagDebugSimIntegrationStabilityTesting
+```
 
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
