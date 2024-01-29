@@ -287,7 +287,6 @@ High
 ###### [Link to Original Post](https://discord.com/channels/1099468797410283540/1189607691849564230)
 ```json
 {
-	"FFlagEnableAudioOutputDevice": "False",
 	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 }
 ```
