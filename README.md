@@ -439,6 +439,7 @@ High
 <h1 align="center">Physics</h1>
 
 ### Invisibility
+###### Basically puts your character positions to 0, 0, 0
 ```json
 {
 	"": "10"
