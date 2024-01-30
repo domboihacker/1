@@ -5,8 +5,7 @@
 <h3 align="center">https://discord.gg/fastflags</h3>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.3 [1/29/2024]
-* **106 Currently Listed**
-* Removed "Disable Output Devicce Setting"
+* **108 Currently Listed**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -282,6 +281,13 @@ High
 ```
 
 <h1 align="center">User Interface</h1>
+
+### V1 Menu
+```json
+{
+	"FIntNewInGameMenuPercentRollout3": "10000"
+}
+```
 
 ### Cleaner ESC Menu
 ###### [Link to Original Post](https://discord.com/channels/1099468797410283540/1189607691849564230)
