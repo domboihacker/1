@@ -4,8 +4,12 @@
 
 <h3 align="center">https://discord.gg/fastflags</h3>
 
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.3 [1/29/2024]
+
+<h6 align="center">i wont leak invisibility</h6>
+
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.4 [1/30/2024]
 * **108 Currently Listed**
+* **update tmr i will remove all patched stuff**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
