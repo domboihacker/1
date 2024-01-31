@@ -7,8 +7,8 @@
 
 <h6 align="center">i wont leak invisibility</h6>
 
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.4 [1/30/2024]
-* **108 Currently Listed**
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.4 [2/1/2024]
+* **107 Currently Listed**
 * **update tmr i will remove all patched stuff**
 
  # How to use
