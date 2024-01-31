@@ -794,7 +794,8 @@ High
 }
 ```
 
-### No description currently available
+### Prevents Remote Events from running
+###### W SPECTRO
 ```json
 {
 	"DFIntRemoteEventSingleInvocationSizeLimit": "1"
