@@ -8,7 +8,7 @@
 <h6 align="center">i wont leak invisibility</h6>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.4 [2/1/2024]
-* **107 Currently Listed**
+* **106 Currently Listed**
 * **update tmr i will remove all patched stuff**
 
  # How to use
@@ -455,12 +455,6 @@ High
 
 <h1 align="center">Physics</h1>
 
-### drunk
-```json
-{
-	"DFIntGeometricStiffnessAlpha": "-100000"
-}
-```
 ### Breaks glitches stuff
 ###### All type of wallhops, longjumps, headhitters and probably more stop working
 ```json
@@ -474,6 +468,13 @@ High
 ```json
 {
 	"DFIntRaycastMaxDistance": "0"
+}
+```
+### Possible Super Jump
+###### i thought this was patched thats why i removed it lol
+```json
+{
+	"DFIntNewRunningBaseGravityReductionFactorHundredth": "50"
 }
 ```
 ### Breaks movement on higher negative values
@@ -535,13 +536,6 @@ High
 {
 	"FIntPGSPenetrationMarginMax": "-100000000",
 	"FIntPGSPenetrationMarginMin": "-100000000"
-}
-```
-### Become a ball
-```json
-{
-	"DFIntDefaultBalanceD": "-17575",
-	"DFIntGeometricStiffnessAlpha": "-17575"
 }
 ```
 ### limited speed fflag that works only in a few games
