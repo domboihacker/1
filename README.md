@@ -8,7 +8,7 @@
 <h6 align="center">i wont leak invisibility</h6>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.4 [2/1/2024]
-* **106 Currently Listed**
+* **107 Currently Listed**
 * **update tmr i will remove all patched stuff**
 
  # How to use
@@ -285,6 +285,13 @@ High
 ```
 
 <h1 align="center">User Interface</h1>
+
+### Custom MicroProfile Scale
+```json
+{
+	"DFIntMicroProfilerDpiScaleOverride": "100"
+}
+```
 
 ### V1 Menu
 ```json
