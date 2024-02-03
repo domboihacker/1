@@ -8,7 +8,7 @@
 <h6 align="center">i wont leak invisibility</h6>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.4 [2/1/2024]
-* **107 Currently Listed**
+* **106 Currently Listed**
 * **update tmr i will remove all patched stuff**
 
  # How to use
@@ -493,12 +493,6 @@ High
 ```json
 {
 	"FFlagSimIslandizerManager": "False"
-}
-```
-### Makes character upside down
-```json
-{
-	"DFIntFreeFallBalanceP": "-9999"
 }
 ```
 ### Fake Lag
