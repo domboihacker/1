@@ -7,9 +7,9 @@
 
 <h6 align="center">i wont leak invisibility</h6>
 
-##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.4 [2/1/2024]
-* **106 Currently Listed**
-* **update tmr i will remove all patched stuff**
+##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.5 [2/1/2024]
+* **107 Currently Listed**
+* weird animations is in the server for now (its client sided)
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -454,6 +454,16 @@ High
 ```
 
 <h1 align="center">Physics</h1>
+
+### Stick unanchored parts to you
+###### - = up, + = down
+###### blame popbob he said it was ok to leak this
+```json
+{
+	"DFIntSolidFloorPercentForceApplication": "-1000",
+	"DFIntNonSolidFloorPercentForceApplication": "-5000"
+}
+```
 
 ### Breaks glitches stuff
 ###### All type of wallhops, longjumps, headhitters and probably more stop working
