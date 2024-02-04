@@ -69,10 +69,11 @@
 ```
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
+
 ### Heads
 ```json
 {
-	"FFlagDebugLuaHeapDump ": "1"
+	"FFlagDebugLuaHeapDump ": "True"
 }
 ```
 ### Graphics Quality Level
