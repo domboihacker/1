@@ -8,7 +8,7 @@
 <h6 align="center">i wont leak invisibility</h6>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.5 [2/1/2024]
-* **107 Currently Listed**
+* **108 Currently Listed**
 * weird animations is in the server for now (its client sided)
 
  # How to use
@@ -69,7 +69,12 @@
 ```
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
-
+### Heads
+```json
+{
+	"FFlagDebugLuaHeapDump ": "1"
+}
+```
 ### Graphics Quality Level
 ```json
 {
