@@ -4,11 +4,10 @@
 
 <h3 align="center">https://discord.gg/fastflags</h3>
 
-
 <h6 align="center">i wont leak invisibility</h6>
 
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.5 [2/1/2024]
-* **108 Currently Listed**
+* **109 Currently Listed**
 * weird animations is in the server for now (its client sided)
 
  # How to use
@@ -523,6 +522,13 @@ High
 ```json
 {
 	"DFIntS2PhysicsSenderRate": "1"
+}
+```
+### ultiamt desync flag!! 😱😱😱
+```json
+{
+	"DFIntS2PhysicsSenderRate": "1",
+	"FIntPGSAngularDampingPermilPersecond": "0"
 }
 ```
 ### Noclip 1
