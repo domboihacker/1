@@ -194,7 +194,12 @@ High
 ### High Quality Textures 
 ###### *[1-3]*
 ```json
-{ "DFFlagTextureQualityOverrideEnabled": "True", "DFIntTextureQualityOverride": "3", }
+{ "DFFlagTextureQualityOverrideEnabled": "True", "DFIntTextureQualityOverride": "3" }
+```
+### Lower Quality Textures 
+###### *[1-3]*
+```json
+{ "DFIntPerformanceControlTextureQualityBestUtility": "-1" }
 ```
 ### Remove Grass
 ```json
