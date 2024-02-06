@@ -5,7 +5,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### Version: 5.0.1 [2/6/2024]
-* **103 Currently Listed**
+* **104 Currently Listed**
 * **5 Textures Currently Listed**
 * **New Formatting**
 
@@ -562,5 +562,7 @@ FFlagDebugSimIntegrationStabilityTesting
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
+
+[.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
 
 <h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
