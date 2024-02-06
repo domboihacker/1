@@ -4,10 +4,8 @@
 
 <h3 align="center">https://discord.gg/fastflags</h3>
 
-<h6 align="center">i wont leak invisibility</h6>
-
 ##### Version: 4[.](https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md)1.5 [2/1/2024]
-* **109 Currently Listed**
+* **111 Currently Listed**
 * weird animations is in the server for now (its client sided)
 
  # How to use
@@ -36,39 +34,31 @@
 ### Metal
 ###### MacOS Only
 ```json
-{
-	"FFlagDebugGraphicsPreferMetal": "True"
-}
+{ "FFlagDebugGraphicsPreferMetal": "True" }
 ```
 ### Vulkan
 ```json
-{
-	"FFlagDebugGraphicsDisableDirect3D11": "True",
-	"FFlagDebugGraphicsPreferVulkan": "True"
-}
+{ "FFlagDebugGraphicsDisableDirect3D11": "True", "FFlagDebugGraphicsPreferVulkan": "True" }
 ```
 ### OpenGL
 ```json
-{
-	"FFlagDebugGraphicsDisableDirect3D11": "True",
-	"FFlagDebugGraphicsPreferOpenGL": "True"
-}
+{ "FFlagDebugGraphicsDisableDirect3D11": "True", "FFlagDebugGraphicsPreferOpenGL": "True" }
 ```
 ### DX10
 ```json
-{
-	"FFlagDebugGraphicsPreferD3D11FL10": "True"
-}
+{ "FFlagDebugGraphicsPreferD3D11FL10": "True" }
 ```
 ### DX11
 ```json
-{
-	"FFlagDebugGraphicsPreferD3D11": "True"
-}
+{ "FFlagDebugGraphicsPreferD3D11": "True" }
 ```
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
 
+### Smoother Terrain
+```json
+{ "FFlagDebugRenderingSetDeterministic": "True" }
+```
 ### Heads
 ```json
 {
@@ -290,6 +280,11 @@ High
 ```
 
 <h1 align="center">User Interface</h1>
+
+### New Report Menu
+```json
+{ "FStringReportAbuseMenuRoactForcedUserIds": "UserID" }
+```
 
 ### Custom MicroProfile Scale
 ```json
