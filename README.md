@@ -102,7 +102,7 @@
 ```
 ### Buggy ZPlane Camera *<sup>a.k.a xray</sup>*
 ```json
-{ "DFFlagDebugDrawBroadPhaseAABBs": "0" }
+{ "FIntCameraFarZPlane": "1" }
 ```
 ### Preserve rendering quality with display setting
 ```json
