@@ -262,7 +262,6 @@ High
 ### Disable Bubble Chat
 ```json
 { "FFlagEnableBubbleChatFromChatService": "False" }
-}
 ```
 ### Disable Selfview
 ```json
@@ -275,7 +274,6 @@ High
 ### Pin Chat on Chrome UI
 ```json
 { "FFlagEnableChromePinnedChat": "True" }
-}
 ```
 ### Hide guis
 ###### ***Instructions: Replace "ID" with any group ID that you are in.***
@@ -357,7 +355,6 @@ High
 ```json
 {
 { "FIntPGSPenetrationMarginMax": "2147483647", "FIntPGSPenetrationMarginMin": "2147483647" }
-}
 ```
 ### Noclip Combo
 ###### adjust the value so u dont fall through the ground
