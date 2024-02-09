@@ -4,8 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 5.0.4 [2/7/2024]
-* **104 Currently Listed**
+##### Version: 5.0.5 [2/9/2024]
+* **103 Currently Listed**
 * **5 Textures Currently Listed**
 * **New Formatting**
 * **Removed [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Presets** <sup>Please use [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)</sup>
@@ -290,7 +290,17 @@ High
 
 <h1 align="center">Textures</h1>
 
-### Moved to [Textures Branch](https://github.com/devstacking/Epic-Fast-Flags-List/tree/textures)
+### No Textures
+```json
+{
+    "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
+    "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
+    "FStringTerrainMaterialTable2022": "",
+    "FStringTerrainMaterialTablePre2022": ""
+}
+```
+
+### Others moved to [Textures Branch](https://github.com/devstacking/Epic-Fast-Flags-List/tree/textures)
 
 <h1 align="center">Physics</h1>
 
