@@ -333,10 +333,6 @@ High
 ```json
 { "DFIntDataSenderRate": "-1" }
 ```
-### Freezes character in any state, can cause crashes, basically stacks input data
-```json
-{ "FFlagSimIslandizerManager": "False" }
-```
 ### Fake Lag
 ```json
 { "DFIntS2PhysicsSenderRate": "1" }
@@ -546,6 +542,7 @@ DFIntRunningBaseAltitudeD
 DFIntRunningBaseAltitudeP
 DFIntRunningBaseOrientationP
 FFlagDebugSimIntegrationStabilityTesting
+FFlagSimIslandizerManager
 ```
 
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
