@@ -15,6 +15,7 @@
 * **Fast Flags >> Fast Flags Editor >> Import Json**
 * **Paste in the JSON**
 * **Then you should be good to go and save!**
+<img src="/assets/tutorial.gif" width="750"/>
 
  # List Navigation
 * **[Rendering](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#rendering)**
